@@ -15,7 +15,7 @@ This project provides a comprehensive analysis of COVID-19 data, offering valuab
 ## Choropleth Map Visualization
 
 A choropleth map is used to visualize the global distribution of death percentages. This interactive map allows users to explore the data by hovering over individual countries to view specific details. The color scale represents the death percentage, providing a clear visual representation of the impact of the pandemic across different regions.
- - ![Project logo](download.png)
+ - ![Project logo](death_percentage.png)
 
 ## How to Use
 
